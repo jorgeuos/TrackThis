@@ -1,0 +1,25 @@
+{
+    "name": "TrackThis",
+    "description": "Track this Matomo into this Matomo. So META!!",
+    "version": "0.1.0",
+    "theme": false,
+    "require": {
+        "matomo": ">=4.7.1-stable,<5.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "Jorge Powers",
+            "email": "jorge.capow@gmail.com",
+            "homepage": "jorgeuos.github.io"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jorgeuos/TrackThis/issues"
+    },
+    "homepage": "jorgeuos.github.io",
+    "license": "GPL v3+",
+    "keywords": [
+        "track",
+        "matomo"
+    ]
+}
